@@ -1,0 +1,561 @@
+[
+  {
+    "image": "https://i.ibb.co/5rjL5kY/focusmate.jpg",
+    "title": "FocusMate",
+    "companyName": "Zenify Labs",
+    "id": 1,
+    "description": "FocusMate is your ultimate productivity partner, designed to help you stay consistent, focused, and distraction-free throughout your day. With its smart Pomodoro-style timer, you can set personalized focus and break sessions that match your work rhythm. The app features deep-focus sounds, customizable alarms, and detailed analytics to track your daily progress. You can create different sessions for study, work, or creative projects, and even integrate them with your calendar. FocusMate also includes motivational quotes, task reminders, and a progress chart to visualize your achievements. Whether you’re preparing for exams, managing remote work, or just trying to improve concentration, FocusMate keeps you on track. Minimalist design, dark mode, and cloud backup make it perfect for modern productivity lovers. Stay disciplined, reduce burnout, and achieve your goals with FocusMate – because your time deserves focus.",
+    "size": 42,
+    "reviews": 18752,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 12652 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/bRr3dtm/soundwave.jpg",
+    "title": "SoundWave Player",
+    "companyName": "Auric Studio",
+    "id": 2,
+    "description": "SoundWave Player brings your music to life with high-definition audio and a stunning, easy-to-use interface. Enjoy your favorite songs offline, create custom playlists, and explore an adaptive equalizer that tunes sound to your mood. The app supports every major audio format and offers powerful bass enhancement for audiophiles. With intelligent sorting, you can find songs by genre, artist, or emotion in seconds. SoundWave also integrates seamlessly with Bluetooth speakers and Android Auto for your daily commute. Enjoy crossfade, gapless playback, and lyrics sync that displays words in real time. The night mode and sleep timer make late-night listening effortless. Whether you’re into pop, rock, or lo-fi, SoundWave Player ensures an immersive experience with zero interruptions. Feel your music, not just hear it — SoundWave redefines how you listen.",
+    "size": 56,
+    "reviews": 80210,
+    "ratingAvg": 4.3,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 4200 },
+      { "name": "3 star", "count": 9100 },
+      { "name": "4 star", "count": 23800 },
+      { "name": "5 star", "count": 41110 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/pKrDMz7/picblend.jpg",
+    "title": "PicBlend Studio",
+    "companyName": "NextGraphix",
+    "id": 3,
+    "description": "PicBlend Studio is an all-in-one photo editing app that gives you the tools to turn ordinary pictures into extraordinary artwork. Apply cinematic filters, overlays, and double-exposure effects to create stunning visuals in seconds. With an intuitive interface, even beginners can edit like professionals. Crop, rotate, enhance, and retouch photos effortlessly using advanced AI adjustments. The collage maker allows you to combine multiple photos with stylish templates and layouts. You can also add text, stickers, and background blur for social-media-ready images. Whether you’re building an online brand or just capturing memories, PicBlend has everything you need. Its smart auto-enhance mode adjusts lighting and color balance automatically for perfect shots. Save in high resolution, share instantly, and express your creativity like never before. PicBlend Studio – where imagination meets precision.",
+    "size": 72,
+    "reviews": 32410,
+    "ratingAvg": 4.7,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 3100 },
+      { "name": "4 star", "count": 9800 },
+      { "name": "5 star", "count": 18210 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/4KTw8pm/fitlife.jpg",
+    "title": "FitLife Tracker",
+    "companyName": "ActiveBeat Co.",
+    "id": 4,
+    "description": "FitLife Tracker is your personal health companion, designed to help you achieve your fitness goals with ease. Track your workouts, calories burned, and steps taken throughout the day. The app offers personalized workout plans tailored to your fitness level and objectives, whether you're aiming to lose weight, build muscle, or improve endurance. With real-time statistics and progress charts, you can monitor your improvements and stay motivated. FitLife Tracker also integrates with popular fitness devices and apps, allowing for seamless data synchronization. Set reminders for workouts, meals, and hydration to stay on track. The community feature lets you connect with friends and share achievements, adding a social element to your fitness journey. Whether you're a beginner or a seasoned athlete, FitLife Tracker provides the tools and support you need to lead a healthier, more active life.",
+    "size": 48,
+    "reviews": 46700,
+    "ratingAvg": 4.5,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 6500 },
+      { "name": "4 star", "count": 11500 },
+      { "name": "5 star", "count": 22700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/jZ7dWn5/langify.jpg",
+    "title": "Langify Learn",
+    "companyName": "EduVerse",
+    "id": 5,
+    "description": "Langify Learn is an interactive language learning app designed to make mastering a new language engaging and effective. With daily lessons, quizzes, and speaking challenges, Langify helps you build vocabulary, improve pronunciation, and understand grammar in a fun and structured way. The app offers courses in multiple languages, each tailored to different proficiency levels, from beginner to advanced. Voice recognition technology provides instant feedback on your pronunciation, ensuring you speak like a native. Langify also features a spaced repetition system to enhance memory retention and long-term learning. Track your progress with detailed analytics and set personalized goals to stay motivated. Join a global community of learners, participate in language exchange sessions, and immerse yourself in cultural content to enhance your learning experience. Whether you're preparing for travel, business, or personal growth, Langify Learn makes language learning accessible and enjoyable.",
+    "size": 63,
+    "reviews": 52100,
+    "ratingAvg": 4.8,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1700 },
+      { "name": "3 star", "count": 4200 },
+      { "name": "4 star", "count": 9300 },
+      { "name": "5 star", "count": 35800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "title": "TaskFlow",
+    "companyName": "OrbitSoft",
+    "id": 6,
+    "description": "TaskFlow is a powerful task management and project collaboration tool designed to streamline your workflow. Organize your tasks with customizable lists, set deadlines, and prioritize activities to stay on top of your responsibilities. The app features smart reminders, recurring tasks, and a visual calendar to help you plan your day effectively. Collaborate with team members by assigning tasks, sharing files, and communicating through integrated chat. TaskFlow supports multiple project views, including Kanban, list, and calendar, allowing you to choose the layout that best suits your workflow. Track progress with real-time updates and analytics, ensuring transparency and accountability within your team. Whether you're managing personal projects or leading a team, TaskFlow provides the tools you need to enhance productivity and achieve your goals efficiently.",
+    "size": 39,
+    "reviews": 28700,
+    "ratingAvg": 4.4,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 3400 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 15900 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "title": "ZenFlow Meditation",
+    "companyName": "MindBloom Apps",
+    "id": 7,
+    "description": "ZenFlow provides guided meditations, sleep stories, and calming music to reduce stress and improve focus. Track your progress, set daily goals, and join a supportive community. Start your journey to inner peace today.",
+    "size": 75,
+    "reviews": 45200,
+    "ratingAvg": 4.8,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 39400 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150",
+    "title": "RecipeGenius AI",
+    "companyName": "CulinaryTech",
+    "id": 8,
+    "description": "RecipeGenius uses AI to suggest recipes based on ingredients you have in your fridge. Save your favorites, create shopping lists, and follow step-by-step cooking instructions with integrated timers.",
+    "size": 55,
+    "reviews": 12800,
+    "ratingAvg": 4.5,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300",
+    "title": "AstroExplorer",
+    "companyName": "CosmicView Studios",
+    "id": 9,
+    "description": "Explore the cosmos with AstroExplorer. Real-time satellite tracking, constellation maps, and educational content about planets, stars, and galaxies. Features stunning high-resolution images.",
+    "size": 120,
+    "reviews": 8900,
+    "ratingAvg": 4.2,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "image": "https://dummyimage.com/600x400/000/fff&text=App+Icon",
+    "title": "FitTrack Pro",
+    "companyName": "HealthMetrics Inc.",
+    "id": 10,
+    "description": "Your ultimate fitness companion. Track steps, calories, heart rate, and sleep. Personalized workout plans, video demonstrations, and integration with all major wearable devices.",
+    "size": 85,
+    "reviews": 95000,
+    "ratingAvg": 4.6,
+    "downloads": 5800000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 25500 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "title": "BudgetBoss",
+    "companyName": "Financially Smart Ltd.",
+    "id": 11,
+    "description": "Take control of your money with BudgetBoss. Expense tracking, budget planning, and financial reports. Syncs with bank accounts securely. Visualize your spending habits easily.",
+    "size": 42,
+    "reviews": 32000,
+    "ratingAvg": 4.7,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 9700 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150",
+    "title": "LangMaster",
+    "companyName": "GlobalEd Tech",
+    "id": 12,
+    "description": "Learn a new language with interactive lessons, voice recognition, and real-life conversational practice. Choose from over 30 languages and track your fluency progress.",
+    "size": 95,
+    "reviews": 110000,
+    "ratingAvg": 4.3,
+    "downloads": 7500000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 36000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300",
+    "title": "PhotoEdit Magic",
+    "companyName": "Creative Pixels",
+    "id": 13,
+    "description": "Professional-grade photo editing on the go. Filters, adjustments, cropping, and advanced layer tools. Share directly to social media.",
+    "size": 150,
+    "reviews": 150000,
+    "ratingAvg": 4.7,
+    "downloads": 9900000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 110000 }
+    ]
+  },
+  {
+    "image": "https://dummyimage.com/600x400/000/fff&text=App+Icon",
+    "title": "DriveSafe Assistant",
+    "companyName": "RoadSense Solutions",
+    "id": 14,
+    "description": "Monitors your driving behavior, provides real-time alerts for distractions, and offers tips for safer driving. May reduce your insurance premium.",
+    "size": 60,
+    "reviews": 7500,
+    "ratingAvg": 4.1,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "title": "CodeMentor IDE",
+    "companyName": "DevTools Global",
+    "id": 15,
+    "description": "A lightweight mobile IDE for coding on the go. Supports multiple languages, syntax highlighting, and cloud synchronization for your projects.",
+    "size": 110,
+    "reviews": 15000,
+    "ratingAvg": 4.4,
+    "downloads": 550000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 6500 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150",
+    "title": "HomeGard Security",
+    "companyName": "SecureLiving Tech",
+    "id": 16,
+    "description": "Control and monitor your smart home security system remotely. Receive instant alerts, view live camera feeds, and manage access.",
+    "size": 50,
+    "reviews": 21000,
+    "ratingAvg": 4.6,
+    "downloads": 880000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300",
+    "title": "EduQuiz World",
+    "companyName": "BrainBoost Games",
+    "id": 17,
+    "description": "Thousands of quiz questions across various subjects like history, science, and pop culture. Challenge friends and climb the global leaderboards.",
+    "size": 70,
+    "reviews": 65000,
+    "ratingAvg": 4.5,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 34000 }
+    ]
+  },
+  {
+    "image": "https://dummyimage.com/600x400/000/fff&text=App+Icon",
+    "title": "TravelMate Planner",
+    "companyName": "Wanderlust Digital",
+    "id": 18,
+    "description": "Plan your perfect trip with itinerary builders, budget trackers, and local recommendations. Works offline for seamless travel.",
+    "size": 65,
+    "reviews": 40000,
+    "ratingAvg": 4.7,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2700 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 24000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "title": "GameHub Launcher",
+    "companyName": "PixelPlay Co.",
+    "id": 19,
+    "description": "A unified library and launcher for all your mobile games. Discover new titles, track achievements, and chat with fellow gamers.",
+    "size": 48,
+    "reviews": 85000,
+    "ratingAvg": 4.3,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 3500 },
+      { "name": "2 star", "count": 4500 },
+      { "name": "3 star", "count": 11000 },
+      { "name": "4 star", "count": 28000 },
+      { "name": "5 star", "count": 38000 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150",
+    "title": "SoundWave Mixer",
+    "companyName": "AudioPro Solutions",
+    "id": 20,
+    "description": "Mobile audio editing studio for musicians and podcasters. Multitrack recording, effects, and export in various formats.",
+    "size": 180,
+    "reviews": 10500,
+    "ratingAvg": 4.5,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300",
+    "title": "Virtual Museum 3D",
+    "companyName": "Culture VR",
+    "id": 21,
+    "description": "Experience world-famous museums and historical sites in immersive 3D and VR. Interactive exhibits and expert-led guided tours.",
+    "size": 250,
+    "reviews": 16000,
+    "ratingAvg": 4.8,
+    "downloads": 650000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 11000 }
+    ]
+  },
+  {
+    "image": "https://dummyimage.com/600x400/000/fff&text=App+Icon",
+    "title": "SmartShopper List",
+    "companyName": "GroceryFlow",
+    "id": 22,
+    "description": "Intelligent shopping list that learns your habits, suggests items, and organizes your list by store aisle. Share lists with family members.",
+    "size": 35,
+    "reviews": 55000,
+    "ratingAvg": 4.4,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 17000 },
+      { "name": "5 star", "count": 29000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "title": "PetPal Health",
+    "companyName": "VetsOnline Group",
+    "id": 23,
+    "description": "Manage your pet's health records, set reminders for vaccinations and medication, and connect with a virtual vet for quick advice.",
+    "size": 52,
+    "reviews": 9000,
+    "ratingAvg": 4.6,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150",
+    "title": "GreenThumb Garden",
+    "companyName": "Flora Digital",
+    "id": 24,
+    "description": "A guide for all things gardening. Plant identification, watering reminders, pest diagnosis, and a community to share tips and photos.",
+    "size": 78,
+    "reviews": 18000,
+    "ratingAvg": 4.7,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300",
+    "title": "Ebook Reader Pro",
+    "companyName": "ReadFast Inc.",
+    "id": 25,
+    "description": "An e-reader app with customizable fonts, margins, and night mode. Supports multiple file formats and cloud library synchronization.",
+    "size": 30,
+    "reviews": 70000,
+    "ratingAvg": 4.5,
+    "downloads": 4900000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 22000 },
+      { "name": "5 star", "count": 35000 }
+    ]
+  },
+  {
+    "image": "https://dummyimage.com/600x400/000/fff&text=App+Icon",
+    "title": "WeatherPulse Live",
+    "companyName": "Atmosphere Data",
+    "id": 26,
+    "description": "Hyper-local, minute-by-minute weather forecasts. Radar maps, severe weather alerts, and detailed 10-day outlooks for any location.",
+    "size": 45,
+    "reviews": 150000,
+    "ratingAvg": 4.3,
+    "downloads": 11000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "title": "StockWatch Trader",
+    "companyName": "MarketMinds",
+    "id": 27,
+    "description": "Real-time stock quotes, portfolio management, and advanced charting tools. Practice trading with a virtual money account.",
+    "size": 80,
+    "reviews": 25000,
+    "ratingAvg": 4.6,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 13800 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150",
+    "title": "NoteSync Cloud",
+    "companyName": "Digital Scribbles",
+    "id": 28,
+    "description": "A simple, powerful note-taking app. Features markdown support, cross-device sync, and secure password protection for sensitive notes.",
+    "size": 25,
+    "reviews": 180000,
+    "ratingAvg": 4.7,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "5 star", "count": 120000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300",
+    "title": "3D Sculpt Creator",
+    "companyName": "FormFactor Devs",
+    "id": 29,
+    "description": "Mobile 3D modeling and sculpting tool. Create detailed models, use various brushes, and export for 3D printing or rendering.",
+    "size": 190,
+    "reviews": 7500,
+    "ratingAvg": 4.2,
+    "downloads": 280000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "image": "https://dummyimage.com/600x400/000/fff&text=App+Icon",
+    "title": "Podcast Catcher",
+    "companyName": "ListenUp Media",
+    "id": 30,
+    "description": "A feature-rich podcast player. Skip silence, boost volume, create custom playlists, and discover new shows with personalized recommendations.",
+    "size": 58,
+    "reviews": 52000,
+    "ratingAvg": 4.8,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 34700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "title": "MapRoute Navigator",
+    "companyName": "GeoData Corp",
+    "id": 31,
+    "description": "Advanced offline maps and navigation. Real-time traffic updates, public transit routes, and walking directions with points of interest.",
+    "size": 130,
+    "reviews": 90000,
+    "ratingAvg": 4.5,
+    "downloads": 7200000,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 44000 }
+    ]
+  }
+]
