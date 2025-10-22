@@ -13,7 +13,7 @@ const HomeCard = () => {
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
-      <div>
+      <div className="px-3 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3.5 justify-items-center">
         {sliceData.map((data) => (
           <HomeSingleCard data={data}></HomeSingleCard>
         ))}
