@@ -1,9 +1,11 @@
 import React from "react";
 import useAppDatas from "../Hook/useAppDatas";
 import HomeSingleCard from "./HomeSingleCard";
+import Lodder from "./Lodder";
+import { Link } from "react-router";
 const HomeCard = () => {
   const data = useAppDatas();
-  const { appData, loding, error } = data;
+  const { appData, loding } = data;
   const sliceData = appData.slice(0, 8);
   return (
     <div className="max-w-7xl mx-auto">
@@ -13,10 +15,23 @@ const HomeCard = () => {
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
-      <div className="px-3 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3.5 justify-items-center">
-        {sliceData.map((data) => (
-          <HomeSingleCard data={data}></HomeSingleCard>
-        ))}
+      {loding ? (
+        <div className="flex justify-center items-center h-60">
+          <Lodder></Lodder>
+        </div>
+      ) : (
+        <div className="px-3 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-3.5 justify-items-center">
+          {sliceData.map((data) => (
+            <HomeSingleCard data={data}></HomeSingleCard>
+          ))}
+        </div>
+      )}
+      <div className=" flex justify-center my-5">
+        <Link to="/apps">
+          <button className=" text-white btn bg-gradient-to-l from-[#632ee3] to-[#9f62f2]">
+            See More
+          </button>
+        </Link>
       </div>
     </div>
   );

@@ -1,23 +1,26 @@
 import React from "react";
+import { IoMdDownload } from "react-icons/io";
+import { CiStar } from "react-icons/ci";
 
 const HomeSingleCard = ({ data }) => {
   console.log(data);
   return (
-    <div className="card bg-base-100  shadow-sm">
+    <div className="card bg-base-100 w-[90%] shadow-sm">
       <figure>
         <img
           className="w-full h-52 overflow-hidden object-cover"
           src={data.image}
         />
       </figure>
-      <div className="card-body">
+      <div className="px-2 my-1">
         <h2 className="card-title">{data.title}</h2>
-        <p>
-          A card component has a figure, a body part, and inside body there are
-          title and actions parts
-        </p>
-        <div className="card-actions justify-end">
-          <button className="btn btn-primary">Buy Now</button>
+        <div className="flex justify-between">
+          <span className="flex gap-1 items-center bg-[#F1F5E8] text-[#00D390]">
+            <IoMdDownload></IoMdDownload> {data.downloads}
+          </span>
+          <span className="flex gap-1 items-center bg-[#F1F5E8] text-[#00D390]">
+            <CiStar></CiStar> {data.ratingAvg}
+          </span>
         </div>
       </div>
     </div>
