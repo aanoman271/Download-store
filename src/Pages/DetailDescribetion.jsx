@@ -1,7 +1,6 @@
 import React from "react";
 
 const DetailDescribetion = ({ selectedApp }) => {
-  console.log(selectedApp);
   return (
     <div>
       <h4 className="mb-3 text-[24px] font-semibold">Describetion</h4>

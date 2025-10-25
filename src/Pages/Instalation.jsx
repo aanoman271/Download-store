@@ -7,7 +7,6 @@ import ErrorPAge from "./ErrorPAge";
 
 const Instalation = () => {
   const InstalledId = getApp();
-
   const [unstalls, setunstall] = useState(InstalledId);
 
   const { appData, loding, error } = useAppDatas(InstalledId);

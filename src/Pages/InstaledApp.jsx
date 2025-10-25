@@ -2,6 +2,7 @@ import React from "react";
 import { FaDownload } from "react-icons/fa";
 import { IoStar } from "react-icons/io5";
 import { getApp } from "../utility/Utility";
+import { ToastContainer, toast } from "react-toastify";
 const InstaledApp = ({ iData, setunstall }) => {
   const unstallHandle = (id) => {
     const localSData = getApp();
@@ -9,6 +10,7 @@ const InstaledApp = ({ iData, setunstall }) => {
     const data = JSON.stringify(filDAta);
     localStorage.setItem("appData", data);
     setunstall([...filDAta]);
+    toast("App unstaling");
   };
   return (
     <div className="h-28 flex  items-center shadow-2xl gap-3 px-7 mb-6">

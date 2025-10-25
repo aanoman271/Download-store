@@ -3,6 +3,7 @@ import { IoStar } from "react-icons/io5";
 import { AiFillLike } from "react-icons/ai";
 import { getApp, setApp } from "../utility/Utility";
 import { useEffect, useState } from "react";
+import { toast } from "react-toastify";
 import Lodder from "./Lodder";
 const SelectAppCard = ({ selectedApp }) => {
   const [lodding, setLodding] = useState(false);
@@ -29,12 +30,12 @@ const SelectAppCard = ({ selectedApp }) => {
       setInstalled(true);
       setLodding(false);
     }, 1000);
+    toast("App instaling");
   };
   const localSdata = getApp();
   if (pageLoding) {
     return <Lodder></Lodder>;
   }
-
   return (
     <div>
       {lodding ? (

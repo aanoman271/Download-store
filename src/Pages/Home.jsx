@@ -6,7 +6,7 @@ import HomeCard from "./HomeCard";
 
 const Home = () => {
   return (
-    <div>
+    <div className="h-screen">
       <HomeBanner></HomeBanner>
       <BnnerImage></BnnerImage>
       <BannerCard></BannerCard>
