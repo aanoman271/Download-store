@@ -11,7 +11,7 @@ const InstaledApp = ({ iData, setunstall }) => {
     setunstall([...filDAta]);
   };
   return (
-    <div className="h-28 flex relative items-center shadow-2xl gap-3 px-7 mb-6">
+    <div className="h-28 flex  items-center shadow-2xl gap-3 px-7 mb-6">
       <div className="   w-36">
         <img className=" rounded-xl object-cover" src={iData.image} alt="" />
       </div>
@@ -33,7 +33,7 @@ const InstaledApp = ({ iData, setunstall }) => {
           </span>
         </small>
       </div>
-      <div className="absolute right-3.5">
+      <div className="absolute right-3.5 ">
         <button
           onClick={() => unstallHandle(iData.id)}
           className="btn btn-primary"

@@ -1,7 +1,8 @@
 import React from "react";
 import { NavLink } from "react-router";
 import { FaGithub } from "react-icons/fa6";
-
+import appLogo from "../assets/logo.png";
+import { Link } from "react-router";
 const Navbar = () => {
   return (
     <div className="navbar bg-base-100 shadow-sm">
@@ -39,7 +40,12 @@ const Navbar = () => {
             </NavLink>
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl">daisyUI</a>
+        <Link to="/">
+          <a className="btn btn-ghost text-xl flex">
+            <img className="w-6" src={appLogo} alt="" />
+            <span className="gradiant">Hero.lo</span>
+          </a>
+        </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className=" flex items-center gap-3 font-medium nav-ul">

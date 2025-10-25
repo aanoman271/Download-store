@@ -26,7 +26,7 @@ const HomeCard = () => {
       ) : (
         <div className="px-3 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-3.5 justify-items-center">
           {sliceData.map((data) => (
-            <HomeSingleCard data={data}></HomeSingleCard>
+            <HomeSingleCard key={data.id} data={data}></HomeSingleCard>
           ))}
         </div>
       )}

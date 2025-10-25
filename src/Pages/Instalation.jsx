@@ -3,6 +3,7 @@ import { getApp } from "../utility/Utility";
 import useAppDatas from "../Hook/useAppDatas";
 import InstaledApp from "./InstaledApp";
 import Lodder from "./Lodder";
+import ErrorPAge from "./ErrorPAge";
 
 const Instalation = () => {
   const InstalledId = getApp();
@@ -15,7 +16,9 @@ const Instalation = () => {
 
   return (
     <>
-      {loding ? (
+      {error ? (
+        <ErrorPAge></ErrorPAge>
+      ) : loding ? (
         <Lodder></Lodder>
       ) : (
         <div>

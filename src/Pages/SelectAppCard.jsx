@@ -40,8 +40,8 @@ const SelectAppCard = ({ selectedApp }) => {
       {lodding ? (
         <Lodder></Lodder>
       ) : (
-        <div className="flex gap-24 py-9 border-b border-gray-400 shadow-2xs">
-          <div className="bg-white shadow-2xl border border-amber-400">
+        <div className="flex-col flex gap-24 py-9 border-b border-gray-400 shadow-2xs md:flex-row items-center md:items-start">
+          <div className="bg-white shadow-2xl border">
             <img src={selectedApp?.image} alt="" />
           </div>
           <div>
