@@ -13,6 +13,15 @@ const AppHeader = () => {
         aData.title.trim().toLocaleLowerCase().includes(term)
       )
     : appData || [];
+  const [searchLOad, setSearchLOad] = useState(false);
+  const oncng = (e) => {
+    const value = e.target.value;
+    setSearch(value);
+    setSearchLOad(true);
+    setTimeout(() => {
+      setSearchLOad(false);
+    }, 300);
+  };
   return (
     <div className="max-w-7xl mx-auto">
       <div className="py-9">
@@ -29,7 +38,7 @@ const AppHeader = () => {
         </h4>
         <input
           value={search}
-          onChange={(e) => setSearch(e.target.value)}
+          onChange={oncng}
           type="search"
           placeholder="Type here"
           className="input"
@@ -42,6 +51,10 @@ const AppHeader = () => {
         </h1>
       )}
       {loding ? (
+        <div className="flex justify-center items-center h-60">
+          <Lodder></Lodder>
+        </div>
+      ) : searchLOad ? (
         <div className="flex justify-center items-center h-60">
           <Lodder></Lodder>
         </div>
