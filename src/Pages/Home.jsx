@@ -7,9 +7,9 @@ import HomeCard from "./HomeCard";
 const Home = () => {
   return (
     <div>
-      {/* <HomeBanner></HomeBanner>
+      <HomeBanner></HomeBanner>
       <BnnerImage></BnnerImage>
-      <BannerCard></BannerCard> */}
+      <BannerCard></BannerCard>
       <HomeCard></HomeCard>
     </div>
   );

@@ -1,11 +1,8 @@
 import React from "react";
+import AppHeader from "./AppHeader";
 
 const Apps = () => {
-  return (
-    <div>
-      <h1>apssss</h1>
-    </div>
-  );
+  return <AppHeader></AppHeader>;
 };
 
 export default Apps;

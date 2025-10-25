@@ -4,6 +4,8 @@ import { Component } from "react";
 import Instalation from "./Instalation";
 import Home from "./Home";
 import Apps from "./Apps";
+import AppDeatails from "./AppDeatails";
+import ErrorPAge from "./ErrorPAge";
 
 const router = createBrowserRouter([
   {
@@ -19,7 +21,15 @@ const router = createBrowserRouter([
         path: "/apps",
         element: <Apps></Apps>,
       },
+      {
+        path: "appdeatails/:id",
+        element: <AppDeatails></AppDeatails>,
+      },
     ],
+  },
+  {
+    path: "*",
+    element: <ErrorPAge></ErrorPAge>,
   },
 ]);
 export default router;

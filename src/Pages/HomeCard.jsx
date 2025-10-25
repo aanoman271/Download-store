@@ -3,9 +3,10 @@ import useAppDatas from "../Hook/useAppDatas";
 import HomeSingleCard from "./HomeSingleCard";
 import Lodder from "./Lodder";
 import { Link } from "react-router";
+import ErrorPAge from "./ErrorPAge";
 const HomeCard = () => {
   const data = useAppDatas();
-  const { appData, loding } = data;
+  const { appData, loding, error } = data;
   const sliceData = appData.slice(0, 8);
   return (
     <div className="max-w-7xl mx-auto">
@@ -15,7 +16,10 @@ const HomeCard = () => {
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
-      {loding ? (
+
+      {error ? (
+        <ErrorPAge></ErrorPAge>
+      ) : loding ? (
         <div className="flex justify-center items-center h-60">
           <Lodder></Lodder>
         </div>

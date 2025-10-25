@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://i.ibb.co/5rjL5kY/focusmate.jpg",
+    "image": "https://picsum.photos/300/200?random=1",
     "title": "FocusMate",
     "companyName": "Zenify Labs",
     "id": 1,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/bRr3dtm/soundwave.jpg",
+    "image": "https://picsum.photos/300/200?random=2",
     "title": "SoundWave Player",
     "companyName": "Auric Studio",
     "id": 2,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/pKrDMz7/picblend.jpg",
+    "image": "https://picsum.photos/300/200?random=3",
     "title": "PicBlend Studio",
     "companyName": "NextGraphix",
     "id": 3,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/4KTw8pm/fitlife.jpg",
+    "image": "https://picsum.photos/300/200?random=4",
     "title": "FitLife Tracker",
     "companyName": "ActiveBeat Co.",
     "id": 4,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/jZ7dWn5/langify.jpg",
+    "image": "https://picsum.photos/300/200?random=5",
     "title": "Langify Learn",
     "companyName": "EduVerse",
     "id": 5,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "image": "https://picsum.photos/300/200?random=6",
     "title": "TaskFlow",
     "companyName": "OrbitSoft",
     "id": 6,
@@ -107,9 +107,8 @@
       { "name": "5 star", "count": 15900 }
     ]
   },
-
   {
-    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "image": "https://picsum.photos/300/200?random=7",
     "title": "ZenFlow Meditation",
     "companyName": "MindBloom Apps",
     "id": 7,
@@ -127,7 +126,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "image": "https://picsum.photos/300/200?random=8",
     "title": "RecipeGenius AI",
     "companyName": "CulinaryTech",
     "id": 8,
@@ -145,7 +144,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300",
+    "image": "https://picsum.photos/300/200?random=9",
     "title": "AstroExplorer",
     "companyName": "CosmicView Studios",
     "id": 9,
@@ -163,7 +162,7 @@
     ]
   },
   {
-    "image": "https://dummyimage.com/600x400/000/fff&text=App+Icon",
+    "image": "https://picsum.photos/300/200?random=10",
     "title": "FitTrack Pro",
     "companyName": "HealthMetrics Inc.",
     "id": 10,
@@ -181,7 +180,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "image": "https://picsum.photos/300/200?random=11",
     "title": "BudgetBoss",
     "companyName": "Financially Smart Ltd.",
     "id": 11,
@@ -199,7 +198,7 @@
     ]
   },
   {
-    "image": "https://via.placeholder.com/150",
+    "image": "https://picsum.photos/300/200?random=12",
     "title": "LangMaster",
     "companyName": "GlobalEd Tech",
     "id": 12,
@@ -217,7 +216,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300",
+    "image": "https://picsum.photos/300/200?random=13",
     "title": "PhotoEdit Magic",
     "companyName": "Creative Pixels",
     "id": 13,
@@ -235,7 +234,7 @@
     ]
   },
   {
-    "image": "https://dummyimage.com/600x400/000/fff&text=App+Icon",
+    "image": "https://picsum.photos/300/200?random=14",
     "title": "DriveSafe Assistant",
     "companyName": "RoadSense Solutions",
     "id": 14,
@@ -253,7 +252,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "image": "https://picsum.photos/300/200?random=15",
     "title": "CodeMentor IDE",
     "companyName": "DevTools Global",
     "id": 15,
@@ -271,7 +270,7 @@
     ]
   },
   {
-    "image": "https://via.placeholder.com/150",
+    "image": "https://picsum.photos/300/200?random=16",
     "title": "HomeGard Security",
     "companyName": "SecureLiving Tech",
     "id": 16,
@@ -289,7 +288,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300",
+    "image": "https://picsum.photos/300/200?random=17",
     "title": "EduQuiz World",
     "companyName": "BrainBoost Games",
     "id": 17,
@@ -307,7 +306,7 @@
     ]
   },
   {
-    "image": "https://dummyimage.com/600x400/000/fff&text=App+Icon",
+    "image": "https://picsum.photos/300/200?random=18",
     "title": "TravelMate Planner",
     "companyName": "Wanderlust Digital",
     "id": 18,
@@ -325,7 +324,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "image": "https://picsum.photos/300/200?random=19",
     "title": "GameHub Launcher",
     "companyName": "PixelPlay Co.",
     "id": 19,
@@ -343,7 +342,7 @@
     ]
   },
   {
-    "image": "https://via.placeholder.com/150",
+    "image": "https://picsum.photos/300/200?random=20",
     "title": "SoundWave Mixer",
     "companyName": "AudioPro Solutions",
     "id": 20,
@@ -361,7 +360,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300",
+    "image": "https://picsum.photos/300/200?random=21",
     "title": "Virtual Museum 3D",
     "companyName": "Culture VR",
     "id": 21,
@@ -379,7 +378,7 @@
     ]
   },
   {
-    "image": "https://dummyimage.com/600x400/000/fff&text=App+Icon",
+    "image": "https://picsum.photos/300/200?random=22",
     "title": "SmartShopper List",
     "companyName": "GroceryFlow",
     "id": 22,
@@ -397,7 +396,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "image": "https://picsum.photos/300/200?random=23",
     "title": "PetPal Health",
     "companyName": "VetsOnline Group",
     "id": 23,
@@ -415,7 +414,7 @@
     ]
   },
   {
-    "image": "https://via.placeholder.com/150",
+    "image": "https://picsum.photos/300/200?random=24",
     "title": "GreenThumb Garden",
     "companyName": "Flora Digital",
     "id": 24,
@@ -433,7 +432,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300",
+    "image": "https://picsum.photos/300/200?random=25",
     "title": "Ebook Reader Pro",
     "companyName": "ReadFast Inc.",
     "id": 25,
@@ -451,7 +450,7 @@
     ]
   },
   {
-    "image": "https://dummyimage.com/600x400/000/fff&text=App+Icon",
+    "image": "https://picsum.photos/300/200?random=26",
     "title": "WeatherPulse Live",
     "companyName": "Atmosphere Data",
     "id": 26,
@@ -469,7 +468,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "image": "https://picsum.photos/300/200?random=27",
     "title": "StockWatch Trader",
     "companyName": "MarketMinds",
     "id": 27,
@@ -487,7 +486,7 @@
     ]
   },
   {
-    "image": "https://via.placeholder.com/150",
+    "image": "https://picsum.photos/300/200?random=28",
     "title": "NoteSync Cloud",
     "companyName": "Digital Scribbles",
     "id": 28,
@@ -505,7 +504,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300",
+    "image": "https://picsum.photos/300/200?random=29",
     "title": "3D Sculpt Creator",
     "companyName": "FormFactor Devs",
     "id": 29,
@@ -523,7 +522,7 @@
     ]
   },
   {
-    "image": "https://dummyimage.com/600x400/000/fff&text=App+Icon",
+    "image": "https://picsum.photos/300/200?random=30",
     "title": "Podcast Catcher",
     "companyName": "ListenUp Media",
     "id": 30,
@@ -541,7 +540,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/LQfZLrH/taskflow.jpg",
+    "image": "https://picsum.photos/300/200?random=31",
     "title": "MapRoute Navigator",
     "companyName": "GeoData Corp",
     "id": 31,
