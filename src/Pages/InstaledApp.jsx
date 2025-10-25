@@ -1,4 +1,3 @@
-import React from "react";
 import { FaDownload } from "react-icons/fa";
 import { IoStar } from "react-icons/io5";
 import { getApp } from "../utility/Utility";
@@ -13,7 +12,7 @@ const InstaledApp = ({ iData, setunstall }) => {
     toast("App unstaling");
   };
   return (
-    <div className="h-28 flex  items-center shadow-2xl gap-3 px-7 mb-6">
+    <div className="h-28 flex relative  items-center shadow-2xl gap-3 px-7 mb-6">
       <div className="   w-36">
         <img className=" rounded-xl object-cover" src={iData.image} alt="" />
       </div>

@@ -2,7 +2,6 @@ import React from "react";
 import { IoMdDownload } from "react-icons/io";
 import { CiStar } from "react-icons/ci";
 import { Link } from "react-router-dom";
-
 const HomeSingleCard = ({ data }) => {
   return (
     <Link to={`/appdeatails/${data.id}`}>

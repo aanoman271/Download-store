@@ -40,11 +40,9 @@ const Navbar = () => {
             </NavLink>
           </ul>
         </div>
-        <Link to="/">
-          <a className="btn btn-ghost text-xl flex">
-            <img className="w-6" src={appLogo} alt="" />
-            <span className="gradiant">Hero.lo</span>
-          </a>
+        <Link className="btn btn-ghost text-xl flex" to="/">
+          <img className="w-6" src={appLogo} alt="" />
+          <span className="gradiant">Hero.lo</span>
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">

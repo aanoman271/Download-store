@@ -48,9 +48,7 @@ const AppHeader = () => {
       ) : (
         <div className="px-3 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-3.5 justify-items-center">
           {searchData.map((data) => (
-            <Link key={data.id} to={`/AppDeatails/${data.id}`}>
-              <HomeSingleCard data={data}></HomeSingleCard>
-            </Link>
+            <HomeSingleCard key={data.id} data={data}></HomeSingleCard>
           ))}
         </div>
       )}
